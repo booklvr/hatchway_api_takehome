@@ -61,7 +61,6 @@
   </tr>
 </table>
 
-
 ## Usage
 
 ```sh
@@ -78,6 +77,16 @@ yarn run start
 
 ```sh
 yarn run test
+
+
+```
+
+## BONUS CACHING
+
+```sh
+git checkout cache
+yarn run start
+
 ```
 
 ## Author
