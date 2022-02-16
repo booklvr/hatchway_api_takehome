@@ -61,6 +61,12 @@
   </tr>
 </table>
 
+## Install
+
+```sh
+yarn install
+```
+
 ## Usage
 
 ```sh
