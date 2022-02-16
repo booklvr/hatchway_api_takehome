@@ -25,5 +25,7 @@ export const hatchwayGetRequest = async (req, res) => {
   }
   const sortedPosts = sortPosts(sortBy, direction, posts)
 
-  return res.status(200).json(sortedPosts)
+  return res.status(200).json({
+    posts: sortedPosts,
+  })
 }
