@@ -12,8 +12,7 @@
   "dependencies": {
     "axios": "^0.26.0",
     "chai-sorted": "^0.2.0",
-    "express": "^4.17.2",
-    "readme-md-generator": "^1.0.0"
+    "express": "^4.17.2"
   },
   "type": "module",
   "devDependencies": {
